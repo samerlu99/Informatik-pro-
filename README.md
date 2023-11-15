@@ -1,4 +1,12 @@
 # Informatik-pro-   
-name : samer 2222222222 
-name : hudefa 222222
-sdasdsdasdasdasdasddsa
+.Person_A :
+-Name:
+-Matrikelnummer:
+-Studiengang:
+-Abschluss:
+
+.Person-B :
+-Name:
+-Matrikelnummer:
+-Studiengang:
+-Abschluss:
